@@ -7,7 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class WelcomeController {
     @GetMapping("/hello")
       public String hello() {
-          return "Hello World Mayank Branch Created 1";
+
+        return "Dev Ops Things";
       }
 
 

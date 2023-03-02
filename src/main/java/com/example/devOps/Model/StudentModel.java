@@ -1,4 +1,4 @@
-package com.example.mayank.Model;
+package com.example.devOps.Model;
 
 public class StudentModel {
     public String  name;

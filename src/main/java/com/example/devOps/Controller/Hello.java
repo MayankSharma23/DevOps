@@ -1,6 +1,4 @@
-package com.example.mayank.Controller;
-
-import com.example.mayank.Model.Employee;
+package com.example.devOps.Controller;
 
 import java.util.*;
 import java.util.stream.Collectors;
@@ -66,7 +64,7 @@ public class Hello {
         System.out.println(l); // print only even numbers
 
         // Sorting on Objects
-        ArrayList<com.example.mayank.Model.Employee> employees = new ArrayList<com.example.mayank.Model.Employee>();
+        ArrayList<com.example.devOps.Model.Employee> employees = new ArrayList<com.example.devOps.Model.Employee>();
 //        employees.add(new com.example.mayank.Model.Employee("Mayank",25060));
 //        employees.add(new com.example.mayank.Model.Employee("Pranay",25056));
 //        employees.add(new com.example.mayank.Model.Employee("Shivam Chauhan",25064));

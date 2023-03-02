@@ -1,4 +1,4 @@
-package com.example.mayank.Model;
+package com.example.devOps.Model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

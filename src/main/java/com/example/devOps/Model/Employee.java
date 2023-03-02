@@ -1,6 +1,4 @@
-package com.example.mayank.Model;
-
-import jakarta.persistence.Entity;
+package com.example.devOps.Model;
 
 public class Employee {
 
